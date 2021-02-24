@@ -5,6 +5,6 @@ main:
    - title: "Writeup"
      url: /year-archive/
    - title: "CVE"
-     url: /collection-archive/
+     url: /cve/
    - title: "About"
      url: /about/
