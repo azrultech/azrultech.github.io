@@ -5,5 +5,7 @@ author_profile: true
 
 ---
 
-Under construction. 
-
+- Malaysian.
+- Currently working at cybersecurity company.
+- Specialist in peneration testing and red teaming.
+- Hold OSCP, OSWP, Security+ and ISACA CSXF certification.
