@@ -3,7 +3,7 @@ main:
    - title: "Home"
      url: https://azrultech.github.io/
    - title: "Writeup"
-     url: /year-archive/
+     url: /writeup/
    - title: "CVE"
      url: /cve/
    - title: "About"
